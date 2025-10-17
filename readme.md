@@ -1,5 +1,6 @@
-# Job tracker
+# Job tracker API
 
-This is a job tracker application that it will work on the terminal.
+With this i want to create a job tracker api.
+
 
 
